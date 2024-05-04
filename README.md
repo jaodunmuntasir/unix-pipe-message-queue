@@ -1,6 +1,7 @@
 # Must use Linux system or it won't run
 # Run commands
 gcc data.c -o data
+
 ./data
 
 # Description
