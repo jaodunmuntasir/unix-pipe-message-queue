@@ -1,3 +1,10 @@
+# Must use Linux system or it won't run
+# Run commands
+gcc data.c -o data
+./data
+
+# Description
+
 It's spring, Easter is coming. Mama Bunny is getting ready, too, and she's collecting watering poems for the little bunny boys. (Easter watering is very kind special Easter monday morning custom.)  Such poems as "Red eggs, green and white bunny, two kisses for a watering Bunny boy!"
 
 Of course, there are those who know it a little differently.
